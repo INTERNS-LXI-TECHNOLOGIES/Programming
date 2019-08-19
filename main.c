@@ -7,6 +7,7 @@ int main(int argc, char *argv[]) {
 	int a,b,c;
 	printf("Welcome to LXI");
 	printf("Oh.....");
+<<<<<<< HEAD
 	printf("Enter First Number");
 	scanf("%d",&a);
 	printf("Enter Second Number");
@@ -21,5 +22,7 @@ int main(int argc, char *argv[]) {
 	{
 		println("Not lessthan 100");
 	}
+=======
+>>>>>>> master
 	return 0;
 }
