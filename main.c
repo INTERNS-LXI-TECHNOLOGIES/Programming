@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	printf("Enter Second Number");
 	scanf("%d",&b);
 	c=a+b;
-	printf("\n Sum is %d",c);
+//	printf("\n Sum is %d",c);
 	if(c<100)
 	{
 		printf("Less than 100");
