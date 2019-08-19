@@ -13,6 +13,13 @@ int main(int argc, char *argv[]) {
 	scanf("%d",&b);
 	c=a+b;
 	printf("\n Sum is %d",c);
-	
+	if(c<100)
+	{
+		printf("Less than 100");
+	}
+	else
+	{
+		println("Not lessthan 100");
+	}
 	return 0;
 }
