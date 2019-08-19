@@ -5,6 +5,11 @@
 
 int main(int argc, char *argv[]) {
 	printf("Welcome to LXI");
-	printf("Oh.....");
+	printf("CEO & Founder : Mr Ajith Prasad Anand");
+	printf("\n START UPS \n ")
+	printf("\n DIVISO SOFTECH \n");
+	printf("\n BYTATECH \n");
+	printf("\n FELIXSO INFOTECH \n");
+	printf("\n ILLUDTECHZONE \n");
 	return 0;
 }
