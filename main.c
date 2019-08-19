@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Welcome to LXI");
+	printf("Oh.....");
 	return 0;
 }
